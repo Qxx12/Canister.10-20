@@ -1,0 +1,12 @@
+name = "10-20";
+tooltipOwned= "10-20";
+picture = "10-20_logo.paa";
+logoSmall = "10-20_logo.paa";
+logo = "10-20_logo.paa";
+logoOver = "10-20_logo.paa";
+hidePicture = 0;
+hideName = 0;
+actionName = "Website";
+action = "http://www.google.com/";
+description = "10-20";
+overview="10-20";
