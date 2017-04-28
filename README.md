@@ -1,9 +1,11 @@
 # 10-20
 
-Download the showcase .pbo file.
+0. You need to turn off BattlEye at this time
 
-Run it on your server.
+1. Download the showcase .pbo file.
 
-Name your server "Test Server".
+2. Run it on your server.
 
-Go to http://dotnetcook.net/altismap.html
+3. Name your server "Test Server".
+
+4. Go to http://dotnetcook.net/altismap.html
