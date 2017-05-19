@@ -1,6 +1,6 @@
 # 10-20
 
-0. You need to turn off BattlEye at this time
+0. You need to turn off BattlEye at this time.
 
 1. Download the pbo file under the showcase directory.
 
