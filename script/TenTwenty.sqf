@@ -4,7 +4,7 @@ if (isServer) then {
 
 		result = "TenTwenty" callExtension "<";
 
-		result = "TenTwenty" callExtension format ["?:%1&%2&%3&%4&%5&%6", worldName, playersNumber west, playersNumber east, playersNumber resistance, playersNumber civilian, serverName];
+		result = "TenTwenty" callExtension format ["?:%1&%2", worldName, serverName];
 
 		pls = allPlayers - entities "HeadlessClient_F";
 		{	
