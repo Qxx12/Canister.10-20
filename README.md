@@ -6,8 +6,6 @@
 
 2. Load the mod on your server.
 
-3. Name your server "Test Server".
+3. Run the showcase senario.
 
-4. Run the showcase senario.
-
-5. Go to http://dotnetcook.net/altismap.html
+4. Go to http://dotnetcook.net/altismap.html
