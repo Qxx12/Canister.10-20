@@ -1,8 +1,4 @@
 <p align="center">
-    <img src="https://github.com/IDI-Systems/acre2/blob/master/extras/logos/acre2-small-logo.png">
-</p>
-
-<p align="center">
     <img src="https://img.shields.io/badge/Version-v0.1.1-blue.svg?style=flat-square" alt="10-20 Version">
     <img src="https://img.shields.io/badge/Issues-0-green.svg" alt="10-20 Issues">
     <img src="https://img.shields.io/badge/License-WTFPL-orange.svg" alt="10-20 License">
