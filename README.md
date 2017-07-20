@@ -1,4 +1,4 @@
-<p align="center">
+<p>
     <img src="https://img.shields.io/badge/Version-v0.1.1-blue.svg?style=flat-square" alt="10-20 Version">
     <img src="https://img.shields.io/badge/Issues-0-green.svg?style=flat-square" alt="10-20 Issues">
     <img src="https://img.shields.io/badge/License-WTFPL-orange.svg?style=flat-square" alt="10-20 License">
