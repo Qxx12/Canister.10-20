@@ -16,4 +16,4 @@
 - Drag **tentwenty_showcase.Altis.pbo** under showcase directory into **MPMissions** folder
 - Set lauch options for arma3server.exe and paste this in: -mod=@10-20
 - Load the showcase in game
-- Search your server <a href="http://dotnetcook.net/altismap.html">here</a>
+- Search for your server <a href="http://dotnetcook.net/altismap.html">here</a>
