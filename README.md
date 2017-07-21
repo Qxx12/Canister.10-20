@@ -13,7 +13,7 @@
 - Locate your Arma 3 Directory
 - Download 10-20 <a href="https://github.com/Qxxcn/10-20/archive/master.zip">here</a> 
 - Drag the **@10-20** folder into your Arma 3 **root** Directory
-- Drag **tentwenty_showcase.Altis.pbo** under showcase directory into **MPMissions** folder
+- Drag **tentwenty_showcase_ai.Altis.pbo** or **tentwenty_showcase.Altis.pbo** under showcase directory into your **MPMissions** folder
 - Set lauch options for arma3server.exe and paste this in: -mod=@10-20
 - Load the showcase in game
 - Search for your server <a href="http://dotnetcook.net/altismap.html">here</a>
