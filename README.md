@@ -22,9 +22,9 @@
 
 - **目前需禁用 BattlEye 以加载模组**
 - 进入 Arma 3 根目录
-- 点击链接下载 10-20 <a href="https://github.com/Qxxcn/10-20/archive/master.zip">我是链接</a> 
+- <a href="https://github.com/Qxxcn/10-20/archive/master.zip">点我</a>下载 10-20
 - 将 **@10-20** 文件夹拖入 Arma 3 **根**目录
 - 将 showcase 文件夹中的 **tentwenty_showcase_ai.Altis.pbo** 拖入 **MPMissions** 中
 - 在启动器模组界面勾选 10-20，或为 arma3server.exe 设置启动参数: -mod=@10-20
 - 进入游戏并加载 tentwenty_showcase_ai.Altis 任务
-- 点击链接并搜索服务器名 <a href="http://dotnetcook.net/altismap.html">我是链接</a>
+- <a href="http://dotnetcook.net/altismap.html">点我</a>并搜索服务器名
