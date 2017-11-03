@@ -17,3 +17,14 @@
 - Set lauch options for arma3server.exe and paste this in: -mod=@10-20
 - Load the showcase in game
 - Search for your server <a href="http://dotnetcook.net/altismap.html">here</a>
+
+### 快速向导
+
+- **目前需禁用 BattlEye 以加载模组**
+- 进入 Arma 3 根目录
+- 点击链接下载 10-20 <a href="https://github.com/Qxxcn/10-20/archive/master.zip">我是链接</a> 
+- 将 **@10-20** 文件夹拖入 Arma 3 **根**目录
+- 将 showcase文件夹中的 **tentwenty_showcase_ai.Altis.pbo** 拖入 **MPMissions** 中
+- 在启动器或为 arma3server.exe 设置启动参数: -mod=@10-20
+- 进入游戏并加载 tentwenty_showcase_ai.Altis 任务
+- 点击链接并搜索服务器名 <a href="http://dotnetcook.net/altismap.html">我是链接</a>
