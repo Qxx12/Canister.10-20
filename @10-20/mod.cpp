@@ -7,6 +7,6 @@ logoOver = "10-20_logo.paa";
 hidePicture = 0;
 hideName = 0;
 actionName = "Website";
-action = "http://www.google.com/";
+action = "http://www.whatsinthecanister.net/";
 description = "10-20";
 overview="10-20";
