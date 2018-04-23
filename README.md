@@ -16,7 +16,7 @@
 - Drag **tentwenty_showcase_ai.Altis.pbo** under showcase directory into your **MPMissions** folder
 - Set lauch options for arma3server.exe and paste this in: -mod=@10-20
 - Load the showcase in game
-- Search for your server <a href="http://whatsinthecanister.net/altismap.html">here</a>
+- Search for your server <a href="http://whatsinthecanister.net/altis.html">here</a>
 
 ### 快速向导
 
@@ -27,4 +27,4 @@
 - 将 showcase 文件夹中的 **tentwenty_showcase_ai.Altis.pbo** 拖入 **MPMissions** 中
 - 在启动器模组界面勾选 10-20，或为 arma3server.exe 设置启动参数: -mod=@10-20
 - 进入游戏并加载 tentwenty_showcase_ai.Altis 任务
-- <a href="http://whatsinthecanister.net/altismap.html">点我</a>并搜索服务器名
+- <a href="http://whatsinthecanister.net/altis.html">点我</a>并搜索服务器名
