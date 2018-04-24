@@ -1,22 +1,23 @@
-if (isServer) then {
-	while {true} do {
-		result = "TenTwenty" callExtension "<";  // start to gather info
+while {true} do {
+	_result = "TenTwenty" callExtension "<";
 
-		result = "TenTwenty" callExtension format ["?:%1&%2", worldName, serverName];  // the string "?:%1&%2" must not be changed
+	_result = "TenTwenty" callExtension format ["?:%1&%2", worldName, serverName];
 
-		pls = allPlayers - entities "HeadlessClient_F";
-		{
-			pos = getPosASL _x;
-			pl = format ["!:%1&%2&%3&%4&%5", pos select 0, pos select 1, side _x, group _x, name _x];  // the string "!:%1&%2&%3&%4&%5" must not be changed
-			result = "TenTwenty" callExtension pl;
+	// pls = allPlayers - entities "HeadlessClient_F";
+	
+	{	
+		pos = getPosASL _x;
+		pl = format ["!:%1&%2&%3&%4&%5", pos select 0, pos select 1, side _x, group _x, name _x];
+		_result = "TenTwenty" callExtension pl;
 
-			if (_x == leader group _x) then {
-				result = "TenTwenty" callExtension format ["#:%1&%2", group _x, name _x];  // the string "#:%1&%2" must not be changed
-			};
-		} forEach pls;
+		if (_x == leader group _x) then {
+			_result = "TenTwenty" callExtension format ["#:%1&%2", group _x, name _x];
+		};
+	} forEach allUnits;  // forEach pls;
 
-		result = "TenTwenty" callExtension ">";  // send the info to the server
+	_result = "TenTwenty" callExtension ">";
 
-		uisleep 10;  // must not be less than 10
-	};
+	[_result] call Qxx_fnc_printReturnCode;
+
+	uisleep 10;  // must NOT be less than 10
 };
