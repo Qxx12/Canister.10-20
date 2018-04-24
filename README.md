@@ -10,7 +10,6 @@
 ### Quick Start Guide
 
 - **BattlEye is required to be turned off at this time**
-- Locate your Arma 3 Directory
 - Subscribe <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=1368691472">10-20</a> on Steam Workshop or download it <a href="https://github.com/Qxxcn/10-20/archive/master.zip">here</a> 
 - If you subscribed the mod on Steam, please also subscribe the showcase <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=1368666439">here</a>.
 - If you downloaded the zip file, drag the **@10-20** folder into your Arma 3 **root** Directory
@@ -22,7 +21,6 @@
 ### 快速向导
 
 - **目前需禁用 BattlEye 以加载模组**
-- 进入 Arma 3 根目录
 - <a href="https://github.com/Qxxcn/10-20/archive/master.zip">点我</a>下载 10-20
 - 将 **@10-20** 文件夹拖入 Arma 3 **根目录**
 - 将 showcase 文件夹中的 **tentwenty_showcase_ai.Altis.pbo** 拖入 **MPMissions** 中
