@@ -1,13 +1,11 @@
-if (isServer) then { 
-
+if (isServer) then {
 	while {true} do {
-
-		result = "TenTwenty" callExtension "<";  // starts to gather some info
+		result = "TenTwenty" callExtension "<";  // start to gather info
 
 		result = "TenTwenty" callExtension format ["?:%1&%2", worldName, serverName];  // the string "?:%1&%2" must not be changed
 
 		pls = allPlayers - entities "HeadlessClient_F";
-		{	
+		{
 			pos = getPosASL _x;
 			pl = format ["!:%1&%2&%3&%4&%5", pos select 0, pos select 1, side _x, group _x, name _x];  // the string "!:%1&%2&%3&%4&%5" must not be changed
 			result = "TenTwenty" callExtension pl;
