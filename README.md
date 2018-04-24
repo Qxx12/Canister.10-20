@@ -12,8 +12,7 @@
 - **BattlEye is required to be turned off at this time**
 - Subscribe <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=1368691472">10-20</a> on Steam Workshop or download it <a href="https://github.com/Qxxcn/10-20/archive/master.zip">here</a> 
 - If you subscribed the mod on Steam, please also subscribe the showcase <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=1368666439">here</a>.
-- If you downloaded the zip file, drag the **@10-20** folder into your Arma 3 **root** Directory
-- If you downloaded the zip file, drag **tentwenty_showcase_ai.Altis.pbo** under showcase directory into your **MPMissions** folder
+- If you downloaded the zip file, drag the **@10-20** folder into your Arma 3 **root** Directory, and drag **tentwenty_showcase_ai.Altis.pbo** under showcase directory into your **MPMissions** folder
 - Set lauch options for arma3server.exe and paste this in: -mod=@10-20
 - Load the showcase in game
 - Search for your server <a href="http://whatsinthecanister.net/altis.html">here</a>
