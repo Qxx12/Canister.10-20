@@ -1,1 +1,1 @@
-[] execVM "TenTwenty.sqf";
+[] execVM "tentwenty.sqf";
