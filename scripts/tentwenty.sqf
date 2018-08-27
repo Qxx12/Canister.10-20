@@ -3,7 +3,7 @@ while {true} do {
 
 	_result = "TenTwenty" callExtension format ["?:%1&%2", worldName, serverName];
 
-	// pls = allPlayers - entities "HeadlessClient_F";
+	pls = allPlayers - entities "HeadlessClient_F";
 	
 	{	
 		pos = getPosASL _x;
@@ -13,11 +13,9 @@ while {true} do {
 		if (_x == leader group _x) then {
 			_result = "TenTwenty" callExtension format ["#:%1&%2", group _x, name _x];
 		};
-	} forEach allUnits;  // forEach pls;
+	} forEach pls;
 
 	_result = "TenTwenty" callExtension ">";
-
-	[_result] call Qxx_fnc_printReturnCode;
 
 	uisleep 10;  // must NOT be less than 10
 };
